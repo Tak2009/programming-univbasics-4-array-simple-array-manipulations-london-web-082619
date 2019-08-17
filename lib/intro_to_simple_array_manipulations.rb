@@ -14,4 +14,5 @@ def pop_with_args(array)
   array = [1,2]
   array.pop
   array.pop
+  array
 end
